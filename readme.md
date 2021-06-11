@@ -17,6 +17,8 @@ Mnist dataset is imported from torchvision.datasets
 
 # Reference
 1. Code
+
 `main_imagenet.py`: https://github.com/pytorch/examples/blob/master/imagenet/main.py
 2. Paper
+
 https://arxiv.org/abs/1503.02531
