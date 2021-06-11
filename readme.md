@@ -8,9 +8,7 @@
 Mnist dataset is imported from torchvision.datasets
 
 # Train
-1. To do the distillation experiment on the ImageNet Dataset
-    
-    `python main_imagenet.py ./`
+    python main_imagenet.py ./
 2. To do the distillation experiment on the Mnist Dataset
     
     `python main_mnist.py ./`
