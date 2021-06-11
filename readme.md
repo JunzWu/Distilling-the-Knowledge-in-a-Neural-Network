@@ -16,10 +16,10 @@ Mnist dataset is imported from torchvision.datasets
     `python main_mnist.py ./`
 
 # Reference
-1. Code
+1. Code:
 
-`main_imagenet.py`: https://github.com/pytorch/examples/blob/master/imagenet/main.py
+  `main_imagenet.py`: https://github.com/pytorch/examples/blob/master/imagenet/main.py
 
-2. Paper
+2. Paper:
 
-https://arxiv.org/abs/1503.02531
+  https://arxiv.org/abs/1503.02531
